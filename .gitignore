@@ -23,8 +23,8 @@ venv/
 env/
 ENV/
 
-# Poetry
-poetry.lock
+# Poetry venv (generated, not needed in repo)
+# Note: poetry.lock IS committed for reproducible builds
 
 # Environment variables
 .env
